@@ -10,10 +10,12 @@ export default function TextFooter() {
   return (
     <>
       {/* Left Text */}
+
+      
       <h1
         className={`absolute left-10 bottom-5 transform -translate-y-1/2 text-white text-4xl lg:text-5xl font-bold leading-tight ${playfairDisplay.className}`}
       >
-        <span className="text-gray-400">Hai My Anna! <br /> Match</span> <br /> the photo pairs
+        <span className="text-gray-400">Haiii My Anna! <br/> Match</span> <br /> the photo pairs
       </h1>
 
       {/* Right Text */}

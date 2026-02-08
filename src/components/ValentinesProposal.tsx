@@ -91,7 +91,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Congratulations! You have completed the game.
+            Yeyyyy Congratulations! You have completed our Collage 😍.
           </motion.h2>
         )}
         {step === 1 && (
@@ -103,7 +103,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            I have a surprise for you!
+            I now have a question for you, My Anna😗!
           </motion.h2>
         )}
         {step === 2 && (
@@ -132,7 +132,7 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Will you be my Valentine?
+              Will you be my Valentine 🥺?
             </h2>
             <Image
               src="/sad_hamster.png"
@@ -175,8 +175,9 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            Thank you for being my Valentine 😍, I love you! 💕
+            Yayyy! Thenkuuu for being my Valentine 😍, I loveee youuu! 💕
             <p className="text-sm mt-4">Ehehehehehe Keeza givinggg 😘💓💌</p>
+            <p className="text-sm mt-4">Izza AriAnna Valentines' Date on 14th Feb! 💗</p>
             <Image
               src="/hamster_jumping.gif"
               alt="Hamster Feliz"
